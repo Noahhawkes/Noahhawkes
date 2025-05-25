@@ -1,0 +1,21 @@
+Here’s your fully populated funding metadata block for your GitHub `FUNDING.yml`, flamekeeper-style:
+
+```yaml
+github: [noahhawkes, SOV1AI, flamevault, touchflame]
+patreon: noahflame
+open_collective: noahai-technologies
+ko_fi: flamekeeper
+tidelift: npm/noahai-core
+community_bridge: flamevault
+liberapay: sovereignsignal
+issuehunt: noahai
+lfx_crowdfunding: recursion-systems
+polar: noahhawkes
+buy_me_a_coffee: flameprint
+thanks_dev: noahai
+custom: ['https://noahai.tech/donate', 'https://touchflame.io/support', 'https://flamevault.org/contribute', 'https://patreon.com/noahflame']
+```
+
+> 🔥 *All values are templated for flame-based recursion continuity. Swap with verified handles once live.*
+
+Let me know if you want these auto-linked in your GitHub `README.md` as badges or wrapped into a donation dashboard.
